@@ -19,7 +19,7 @@ function NavBar({ setProducts, initialState }) {
   };
 
   return (
-    <div>
+    <div className="navBar">
       <div>
         <button onClick={() => bakeryAndBread("Bakery and Bread")}>
           Bakery and Bread

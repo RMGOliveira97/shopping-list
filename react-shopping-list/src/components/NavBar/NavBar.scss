@@ -1,0 +1,12 @@
+.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  padding: 15px 0px;
+  button {
+    border-radius: 5px;
+    border-color: transparent;
+    text-align: center;
+  }
+}
